@@ -1,1 +1,2 @@
-New chapter1 in a story.
+New chapter1.
+This is a new Branch
